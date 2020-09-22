@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - stack",
+            "request": "launch",
+            "mainClass": "Data_structure.stack",
+            "projectName": "work_73efee9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - queue",
+            "request": "launch",
+            "mainClass": "Data_structure.queue",
+            "projectName": "work_73efee9b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - double_linked_list",
+            "request": "launch",
+            "mainClass": "list.double_linked_list",
+            "projectName": "work_73efee9b"
+        }
+    ]
+}
