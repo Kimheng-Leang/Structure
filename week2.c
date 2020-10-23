@@ -17,7 +17,7 @@
 //             {
 //                 fac *= i;
 //             }
-//             printf("\n%d factorial is %d.\n", num, fac);
+//             printf("\n%d facatorial is %d.\n", num, fac);
 //             break;
 //         case 2:
 //             printf("Enter the power that you want to raise: ");
@@ -98,7 +98,7 @@ int main() {
     int prev = 0, pre = 1, trm, i, n;
     printf("Enter the number: ");
     scanf("%d", &n);
-    printf("The fibonacci sequence: %d %d ", prev, pre);
+    printf("The fibonaccin sequence: %d %d ", prev, pre);
     for(i = 3;i <= n;i++)
     {
         trm = prev + pre;
